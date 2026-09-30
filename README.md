@@ -4,26 +4,26 @@ I'm a **Computer Science Engineering student** who enjoys learning how software 
 
 ### 💻 What I Know
 
-* **C** — Data Structures & Algorithms, pointers, memory management
-* **C++** — Basics
-* **Java** — Basics
-* **Python** — Basics
-* **Git & GitHub**
-* Currently learning **HTML, CSS & JavaScript**
+- **C** — Data Structures & Algorithms, pointers, memory management
+- **C++** — Basics
+- **Java** — Basics
+- **Python** — Basics
+- **Git & GitHub**
+- Currently learning **HTML, CSS & JavaScript**
 
 ### 🚀 What I'm Learning
 
 My current goal is to become a **Full-Stack Web Developer**, learning both:
 
-* 🎨 Frontend — HTML, CSS, JavaScript and eventually modern frameworks
-* ⚙️ Backend — servers, APIs, databases and backend development
+- 🎨 Frontend — HTML, CSS, JavaScript and eventually modern frameworks
+- ⚙️ Backend — servers, APIs, databases and backend development
 
 After getting comfortable with web development, I want to explore:
 
-* 🔐 Cybersecurity
-* 🎮 Game Development
-* 🎬 Animation / Anime Development
-* 🤖 AI & Machine Learning
+- 🔐 Cybersecurity
+- 🎮 Game Development
+- 🎬 Animation / Anime Development
+- 🤖 AI & Machine Learning
 
 ### 🧠 Currently
 
@@ -32,6 +32,30 @@ I'm focusing on strengthening my programming fundamentals, data structures, oper
 ### 📌 My Goal
 
 Keep learning, keep building, and understand **how things work under the hood** rather than just using them.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,linux" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
