@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey, I'm Aditya 👋
 
-<!--
-**adityakamath07/adityakamath07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science Engineering student** who enjoys learning how software works and building things along the way.
 
-Here are some ideas to get you started:
+### 💻 What I Know
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **C** — Data Structures & Algorithms, pointers, memory management
+* **C++** — Basics
+* **Java** — Basics
+* **Python** — Basics
+* **Git & GitHub**
+* Currently learning **HTML, CSS & JavaScript**
+
+### 🚀 What I'm Learning
+
+My current goal is to become a **Full-Stack Web Developer**, learning both:
+
+* 🎨 Frontend — HTML, CSS, JavaScript and eventually modern frameworks
+* ⚙️ Backend — servers, APIs, databases and backend development
+
+After getting comfortable with web development, I want to explore:
+
+* 🔐 Cybersecurity
+* 🎮 Game Development
+* 🎬 Animation / Anime Development
+* 🤖 AI & Machine Learning
+
+### 🧠 Currently
+
+I'm focusing on strengthening my programming fundamentals, data structures, operating systems, computer networks, and web development while working on projects and learning new technologies.
+
+### 📌 My Goal
+
+Keep learning, keep building, and understand **how things work under the hood** rather than just using them.
+
+---
+
+*Still learning. Still experimenting. Still breaking things. 🔧*
