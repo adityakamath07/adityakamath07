@@ -11,6 +11,8 @@ I'm a **Computer Science Engineering student** who enjoys learning how software 
 - **Git & GitHub**
 - Currently learning **HTML, CSS & JavaScript**
 
+
+
 ### 🚀 What I'm Learning
 
 My current goal is to become a **Full-Stack Web Developer**, learning both:
@@ -43,6 +45,20 @@ Keep learning, keep building, and understand **how things work under the hood** 
 
 ---
 
+<p align="center">
+  🔧✨ <i>“Don't just learn how to use it. Learn how it works.”</i>
+</p>
+
+---
+
+## 💪 My Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityakamath07&show_icons=true&hide_border=true" />
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 <p align="center">
@@ -60,3 +76,9 @@ Keep learning, keep building, and understand **how things work under the hood** 
 ---
 
 *Still learning. Still experimenting. Still breaking things. 🔧*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityakamath07&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
