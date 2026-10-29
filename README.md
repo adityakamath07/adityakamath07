@@ -40,7 +40,7 @@ Keep learning, keep building, and understand **how things work under the hood** 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,linux,bash" />
 </p>
 
 ---
