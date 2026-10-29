@@ -51,14 +51,6 @@ Keep learning, keep building, and understand **how things work under the hood** 
 
 ---
 
-## 💪 My Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakamath07&show_icons=true&hide_border=true" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
